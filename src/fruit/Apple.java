@@ -4,10 +4,10 @@ public class Apple {
 	int price;
 	int grade;
 	
-<<<<<<< HEAD
+
 	public void eat() {
 		price -= 500;
-=======
+	}
 	
 	boolean clean;
 	
@@ -17,6 +17,5 @@ public class Apple {
 	
 	public void clean() {
 		clean = true;
->>>>>>> refs/heads/branch1
 	}
 }
